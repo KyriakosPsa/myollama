@@ -1,7 +1,7 @@
 Engage with locally deployed Ollama models on your GPU using a `streamlit`-powered GUI.
 
 - Features include:
-  - Simultaneous conversations
+  - Multiple independent conversations
   - Saving conversation history with a backend SQLite database
   - Current support limited to text interactions; upcoming support for RAG with documents and images
 - Available Models:
